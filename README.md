@@ -1,6 +1,6 @@
 # 🎙️ JARVIS - Python Voice Assistant
 
-This is a simple desktop-based JARVIS-like virtual assistant built using Python. It can recognize voice commands, respond with speech, and perform tasks like playing YouTube videos, telling the time, searching Wikipedia, telling jokes, and more.
+This is a simple desktop-based JARVIS-like virtual assistant built using Python. It can recognize voice commands, respond with speech, and perform tasks like playing YouTube videos, telling the time, searching Wikipedia, telling jokes, and listening to your words and more.
 
 
 ---
