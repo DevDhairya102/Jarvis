@@ -12,7 +12,7 @@ This is a simple desktop-based JARVIS-like virtual assistant built using Python.
 - 📺 Play YouTube videos using voice
 - 📚 Get quick Wikipedia summaries
 - 🕒 Tell current time
-- 😂 Crack jokes
+-  Crack jokes
 - 🔁 Voice-based control loop ("Do you want me to continue?")
 - 🛑 Say "stop" or "exit" to shut down
 
