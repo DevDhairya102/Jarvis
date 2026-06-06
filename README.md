@@ -17,6 +17,17 @@ This is a simple desktop-based JARVIS-like virtual assistant built using Python.
 - 🛑 Say "stop" or "exit" to shut down
 
 ---
+🧠 Future Improvements
+Face Recognition Login
+GUI Interface
+ChatGPT Integration
+Home Automation
+WhatsApp Automation
+AI Memory System
+Mobile App Version
+Wake Word Detection (“Hey Jarvis”)
+
+---
 
 ## 🛠️ Built With
 
