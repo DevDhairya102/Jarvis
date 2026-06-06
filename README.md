@@ -18,14 +18,14 @@ This is a simple desktop-based JARVIS-like virtual assistant built using Python.
 
 ---
 🧠 Future Improvements
-Face Recognition Login
-GUI Interface
-ChatGPT Integration
-Home Automation
-WhatsApp Automation
-AI Memory System
-Mobile App Version
-Wake Word Detection (“Hey Jarvis”)
+-Face Recognition Login
+-GUI Interface
+-ChatGPT Integration
+-Home Automation
+-WhatsApp Automation
+-AI Memory System
+-Mobile App Version
+-Wake Word Detection (“Hey Jarvis”)
 
 ---
 
