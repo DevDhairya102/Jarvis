@@ -47,3 +47,14 @@ This is a simple desktop-based JARVIS-like virtual assistant built using Python.
 
    ```bash
    pip install -r requirements.txt
+
+
+   Disclaimer
+
+This project is developed for educational and learning purposes only.
+JARVIS is inspired by Marvel’s fictional AI assistant.
+
+👨‍💻 Author
+
+Dhairya Shah
+Computer Engineering Student | AI & ML Enthusiast
