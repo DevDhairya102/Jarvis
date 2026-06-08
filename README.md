@@ -58,3 +58,11 @@ JARVIS is inspired by Marvel’s fictional AI assistant.
 
 Dhairya Shah
 Computer Engineering Student | AI & ML Enthusiast
+
+Support
+
+If you like this project:
+
+Give it a ⭐ on GitHub
+Fork the repository
+Contribute improvements
