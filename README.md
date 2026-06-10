@@ -29,6 +29,15 @@ This is a simple desktop-based JARVIS-like virtual assistant built using Python.
 
 ---
 
+Example Commands
+Command	Action
+“Open Chrome”	Opens Google Chrome
+“Play music”	Plays music
+“What is the time?”	Speaks current time
+“Search Python”	Searches on Google
+“Take screenshot”	Captures screenshot
+“Who is Elon Musk?”	Wikipedia summary
+
 ## 🛠️ Built With
 
 - Python 3.11
