@@ -5,6 +5,24 @@ This is a simple desktop-based JARVIS-like virtual assistant built using Python.
 
 ---
 
+JARVIS/
+│
+├── main.py                 # Main assistant file
+├── requirements.txt        # Required libraries
+├── commands/
+│   ├── open_apps.py
+│   ├── search_web.py
+│   ├── play_music.py
+│   └── system_tasks.py
+│
+├── assets/
+│   ├── jarvis_logo.png
+│   └── sounds/
+│
+├── screenshots/
+│
+└── README.md
+---
 ## 🚀 Features
 
 - 🎧 Voice Recognition (Speech-to-Text)
