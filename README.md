@@ -56,7 +56,7 @@ Command	Action
 “What is the time?”	Speaks current time
 “Search Python”	Searches on Google
 “Take screenshot”	Captures screenshot
-“Who is Elon Musk?”	Wikipedia summary
+
 
 ## 🛠️ Built With
 
