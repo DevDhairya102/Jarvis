@@ -25,7 +25,7 @@ JARVIS
 
 
 
-## 🚀 Features
+### Features
 
 - 🎧 Voice Recognition (Speech-to-Text)
 - 🗣️ Text-to-Speech using `pyttsx3`
@@ -37,7 +37,7 @@ JARVIS
 - 🛑 Say "stop" or "exit" to shut down
 
 ---
-🧠 Future Improvements
+## Future Improvements
 -Face Recognition Login
 -GUI Interface
 -ChatGPT Integration
