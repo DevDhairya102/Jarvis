@@ -29,8 +29,8 @@ JARVIS
 
 - Voice Recognition (Speech-to-Text)
 - Text-to-Speech using `pyttsx3`
-- 📺 Play YouTube videos using voice
-- 📚 Get quick Wikipedia summaries
+- Play YouTube videos using voice
+-  Get quick Wikipedia summaries
 - 🕒 Tell current time
 -  Crack jokes
 - 🔁 Voice-based control loop ("Do you want me to continue?")
