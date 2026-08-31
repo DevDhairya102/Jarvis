@@ -31,10 +31,10 @@ JARVIS
 - Text-to-Speech using `pyttsx3`
 - Play YouTube videos using voice
 -  Get quick Wikipedia summaries
-- 🕒 Tell current time
+-  Tell current time
 -  Crack jokes
-- 🔁 Voice-based control loop ("Do you want me to continue?")
-- 🛑 Say "stop" or "exit" to shut down
+-  Voice-based control loop ("Do you want me to continue?")
+-  Say "stop" or "exit" to shut down
 
 ---
 ## Future Improvements
