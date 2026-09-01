@@ -58,7 +58,7 @@ Command	Action
 “Take screenshot”	Captures screenshot
 
 
-## 🛠️ Built With
+### Built With
 
 - Python 3.11
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
@@ -70,7 +70,7 @@ Command	Action
 
 ---
 
-## 💻 How to Run
+### How to Run
 
 1. **Install dependencies** (create `venv` if preferred):
 
