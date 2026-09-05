@@ -83,7 +83,7 @@ Command	Action
 This project is developed for educational and learning purposes only.
 JARVIS is inspired by Marvel’s fictional AI assistant.
 
-👨‍💻 Author
+Author
 
 Dhairya Shah
 Computer Engineering Student | AI & ML Enthusiast
@@ -92,6 +92,6 @@ Support
 
 If you like this project:
 
-Give it a ⭐ on GitHub
+Give it a like on GitHub
 Fork the repository
 Contribute improvements
